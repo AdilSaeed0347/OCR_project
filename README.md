@@ -104,4 +104,4 @@ if text_eng.strip():
     ask_save_copy()
 
 else:
-    print("⚠ No English text found to display.")
+    print(" No English text found to display.")
